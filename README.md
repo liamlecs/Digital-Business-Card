@@ -1,4 +1,4 @@
-# Digital Business Card
+# Digital Business Card 
 
 This project was created as part of the Introduction to ReactJS course by Scrimba. The design is based on a Figma file provided by Scrimba. However, the development and implementation was done entirely by me.
 
