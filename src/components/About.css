@@ -1,0 +1,16 @@
+.About--Title, .About--Paragraph{
+  margin: 0 36px 0 36px;
+}
+.About--Title{
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 150%;
+  color: #f5f5f5;
+  margin-bottom: 5px;
+}
+.About--Paragraph{
+  font-size: 0.625rem;
+  font-weight: 400;
+  color: #dcdcdc;
+  line-height: 150%;
+}

@@ -1,0 +1,79 @@
+.Info--Image{
+  object-fit: cover; /* This makes the image fit the container */
+  width: 317px;
+  height: 317px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.Info--Name{
+  font-size: 1.56rem;
+  text-align: center;
+  font-weight: 700;
+  margin: 21px 0 0 0;
+}
+.Info--Position{
+  font-size: 0.8rem;
+  text-align: center;
+  font-weight: 400;
+  margin: 6px 0 0 0;
+  color: #f3bf99;
+}
+.Info--Website{
+  font-size: 0.8rem;
+  text-align: center;
+  font-weight: 400;
+  margin: 8px 0 0 0;
+  color: #f5f5f5;
+}
+.Info--Button--Container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px 0 0 0;
+  padding-bottom: 32px;
+}
+.Info--Button--Container > a{
+  text-decoration: none;
+}
+.Info--Button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 34px;
+  background: none;
+  border: none;
+  border-radius: 6px;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  outline: inherits;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+.Info--Button--Email{
+  margin-right: 17px;
+  background-color: #ffffff;
+  color: #374151;
+}
+.Info--Button--Email:hover{
+  background-color: #374151;
+  color: #ffffff;
+  cursor: pointer;
+}
+.Info--Button--LinkedIn{
+  background-color: #5093e2;
+  color: #ffffff;
+}
+.Info--Button--LinkedIn:hover{
+  background-color: #374151;
+  color: #5093e2;
+  cursor: pointer;
+}
+.Info--Button--Icon{
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}

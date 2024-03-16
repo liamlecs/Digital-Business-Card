@@ -1,0 +1,18 @@
+.Footer--Container{
+  background-color: #161619;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 40px;
+}
+
+.Footer--Icon{
+  margin: 20px 0;
+  height: 25px;
+  width: 25px;
+}
+.Footer--Icon--Resume{
+  background: transparent;
+}
+.Footer--Icon--Resume:hover{
+  cursor: pointer;
+}

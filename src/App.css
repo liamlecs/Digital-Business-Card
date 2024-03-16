@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box; /* This makes sure that the padding and border are included in the total width and height of an element */
+  font-size: 16px; /* This sets the default font size to 16px */
+}
+
+html {
+  height: 100% /* This makes sure that the html element takes up the full height of the viewport */
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #23252c;
+  color: #ffffff;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
